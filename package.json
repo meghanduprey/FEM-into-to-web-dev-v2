@@ -1,0 +1,23 @@
+{
+  "name": "FEM-web-dev",
+  "version": "1.0.0",
+  "description": "https://btholt.github.io/intro-to-web-dev-v2/ https://btholt.github.io/intro-to-web-dev-v2/project-html-css/ https://btholt.github.io/intro-to-web-dev-v2/news.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meghanduprey/FEM-into-to-web-dev-v2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meghanduprey/FEM-into-to-web-dev-v2/issues"
+  },
+  "homepage": "https://github.com/meghanduprey/FEM-into-to-web-dev-v2#readme",
+  "dependencies": {
+    "popmotion": "^8.6.7"
+  }
+}
